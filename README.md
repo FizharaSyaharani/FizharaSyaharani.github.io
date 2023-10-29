@@ -1,2 +1,2 @@
-# Fizharasyaharani.github.io
+# FizharaSyaharani.github.io
 UTS PWEB
